@@ -1,0 +1,28 @@
+
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+#worksheetContainer {
+    margin-top: 20px;
+}
+
+#previewContainer {
+    float: right;
+    width: 40%;
+    margin-right: 20px;
+    height: 800; /* Adjust height according to your layout */
+    overflow-y: auto; /* Enable vertical scrolling if content exceeds container height */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+
+
