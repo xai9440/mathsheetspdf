@@ -12,9 +12,9 @@ button {
 #previewContainer {
     float: right;
     width: 40%;
-    margin-right: 20px;
-    height: 800; /* Adjust height according to your layout */
-    overflow-y: auto; /* Enable vertical scrolling if content exceeds container height */
+    margin-right: 80px;
+    height: 350;
+    overflow-y: auto;
 }
 
 .container {
